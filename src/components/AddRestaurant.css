@@ -1,0 +1,23 @@
+.add-restaurant {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #f9f9f9;
+  }
+  
+  .add-restaurant h2 {
+    margin-top: 0;
+  }
+  
+  .add-restaurant input {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .add-restaurant button {
+    width: 100%;
+  }
